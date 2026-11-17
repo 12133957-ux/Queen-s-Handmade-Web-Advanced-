@@ -1,0 +1,29 @@
+.about-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 70vh;
+    padding: 40px 20px;
+    background-color: #f9f9f9;
+}
+
+.about-card {
+    background-color: white;
+    padding: 35px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-top: 5px solid maroon;
+    max-width: 650px;
+    width: 100%;
+}
+
+.about-card h2 {
+    color: maroon;
+    margin-bottom: 15px;
+}
+
+.about-card p {
+    color: #333;
+    line-height: 1.6;
+    margin-bottom: 12px;
+}

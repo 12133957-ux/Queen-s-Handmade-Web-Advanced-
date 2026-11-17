@@ -1,0 +1,35 @@
+.newarrival-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.menuItem {
+    border-radius: 15px;
+    width: 300px;
+    margin: 20px;
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+}
+
+.menuItem div {
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+
+.menuItem p {
+    color: black;
+    margin-left: 10px;
+}
+
+.menuItem h2 {
+    color: maroon;
+    margin-left: 10px;
+}
+
+.menuItem img {
+    width: 300px;
+}
