@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Queen-s-Handmade-Web-Advanced-/static/css/main.672fd392.css",
+    "main.js": "/Queen-s-Handmade-Web-Advanced-/static/js/main.91b7a9df.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Queen-s-Handmade-Web-Advanced-/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Dior.jpeg": "/Queen-s-Handmade-Web-Advanced-/static/media/Dior.94c09568a8791997dfd9.jpeg",
+    "static/media/Crystals.jpeg": "/Queen-s-Handmade-Web-Advanced-/static/media/Crystals.cc17f6751470c319a4b3.jpeg",
+    "static/media/Acrylic.jpeg": "/Queen-s-Handmade-Web-Advanced-/static/media/Acrylic.afe3ae1250f71fd5e428.jpeg",
+    "index.html": "/Queen-s-Handmade-Web-Advanced-/index.html",
+    "main.672fd392.css.map": "/Queen-s-Handmade-Web-Advanced-/static/css/main.672fd392.css.map",
+    "main.91b7a9df.js.map": "/Queen-s-Handmade-Web-Advanced-/static/js/main.91b7a9df.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Queen-s-Handmade-Web-Advanced-/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.672fd392.css",
+    "static/js/main.91b7a9df.js"
+  ]
+}
